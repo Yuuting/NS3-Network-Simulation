@@ -26,7 +26,7 @@ PacketSinkHelper（NS3自带的一个接收数据包的应用）
 
 ### 通信效果
 
-![image]("./src/normal.gif")
+![image](https://github.com/Yuuting/NS3-Network-Simulation/blob/main/src/normal.gif)
 
 ### 代码问题与反思
 
