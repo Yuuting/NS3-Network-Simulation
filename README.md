@@ -26,8 +26,9 @@ PacketSinkHelper（NS3自带的一个接收数据包的应用）
 
 ### 通信效果
 
-<video src="./Users/fengyuting/Desktop/normal.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
-
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="./normal.mp4" type="video/mp4">
+</video>
 
 ### 代码问题与反思
 
