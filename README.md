@@ -38,11 +38,3 @@ PacketSinkHelper：接收和消费对应IP地址和端口的流量。
 ### 通信效果
 
 ![image](https://github.com/Yuuting/NS3-Network-Simulation/blob/main/src/normal.gif)
-
-### 代码问题与反思
-
-1.两个节点之间通信交互次数总是出现问题；待优化；
-
-2.目前基于自带的应用程序比较死板，只是模拟了他们之间的通信过程，没有涉及到智能，比如是否知道终端IP等等的。待优化；
-
-3.传输数据的数据包还只是数据流，没有涉及数据内容，待优化。
